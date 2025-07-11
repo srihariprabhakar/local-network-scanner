@@ -1,6 +1,6 @@
-# 🔍 Local Network Scanner
+# Local Network Scanner
 
-This script scans your local network and shows all active devices with their IP and MAC addresses.
+This script scans a local network and shows all active devices with their IP and MAC addresses.
 
 ## Requirements
 
